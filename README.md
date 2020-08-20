@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<a href="https://github.com/ersanyamarya/timepocket"><img src="https://raw.githubusercontent.com/ersanyamarya/timepocket/master/docs/images/timepocket.svg" alt="Standard -  Time Pocket" width="200"></a> 
+<a href="https://github.com/ersanyamarya/timepocket"><img src="https://raw.githubusercontent.com/ersanyamarya/timepocket/master/docs/images/time-pocket.svg" alt="Standard -  Time Pocket" width="200"></a> 
 <br> Time Pocket - time utilities <br>
 
 </h1>
