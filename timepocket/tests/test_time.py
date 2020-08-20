@@ -1,11 +1,11 @@
 import unittest
-from timepocket import hoursToMinSec
+from timepocket import hours_to_min_sec
 
 
 class TestSum(unittest.TestCase):
 
-    def test_hoursToMinSec(self):
-        self.assertEqual(hoursToMinSec(12.34), {
+    def test_hours_to_min_sec(self):
+        self.assertEqual(hours_to_min_sec(12.34), {
                          'hours': 12, 'minutes': 20, 'seconds': 23}, "Should return correct value")
 
 

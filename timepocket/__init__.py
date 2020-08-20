@@ -9,8 +9,8 @@ __author__ = 'Sanyam Arya'
 __credits__ = 'Sanyam Arya'
 
 
-from .time import hoursToMinSec
+from .time import hours_to_min_sec
 
 __all__ = [
-    'hoursToMinSec'
+    'hours_to_min_sec'
 ]
